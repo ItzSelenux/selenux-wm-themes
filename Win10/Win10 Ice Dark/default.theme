@@ -1,0 +1,75 @@
+ThemeDescription="Windows 10 Dark Based theme"
+
+ThemeAuthor="ItzSelenux"
+
+Look=flat
+TitleBarHeight=30
+TitleBarJustify=50
+
+TitleButtonsLeft="s"
+TitleButtonsRight="xmi"
+TitleButtonsSupported="sxmi"
+
+BorderSizeX=1
+BorderSizeY=1
+CornerSizeX=16
+CornerSizeY=16
+DlgBorderSizeX=1
+DlgBorderSizeY=1
+
+ColorNormalBorder="rgb:1F/1F/1F"
+ColorActiveBorder="rgb:1F/1F/1F"
+ColorActiveTitleBar="rgb:1F/1F/1F"
+ColorNormalTitleBar="rgb:1F/1F/1F"
+ColorNormalButton="rgb:1F/1F/1F"
+ColorNormalTitleBarText="rgb:ff/ff/ff"
+ColorActiveTitleBarText="rgb:ff/ff/ff"
+ColorNormalMenu="rgb:1F/1F/1F"
+ColorActiveMenuItem="rgb:35/35/35"
+ColorNormalMenuItemText="rgb:ff/ff/ff"
+ColorActiveMenuItemText="rgb:ff/ff/ff"
+ColorDisabledMenuItemText="rgb:80/80/80"
+ColorMoveSizeStatus="rgb:35/35/35"
+ColorMoveSizeStatusText="rgb:FF/FF/FF"
+
+ColorInputSelection="rgb:35/35/35"
+#taskbar parameters
+ColorDefaultTaskBar="rgb:1F/1F/1F"
+ColorNormalTaskBarApp="rgb:1F/1F/1F"
+ColorNormalTaskBarAppText="rgb:ff/ff/ff"
+ColorActiveTaskBarApp="rgb:35/35/35"
+ColorActiveTaskBarAppText="rgb:ff/ff/ff"
+ColorMinimizedTaskBarApp="rgb:1F/1F/1F"
+ColorMinimizedTaskBarAppText="rgb:b3/b3/b3"
+TaskBarSize =40
+#listbox
+ColorListBox="rgb:CC/CC/CC"
+ColorListBoxText="rgb:00/00/00"
+ColorListBoxSelection="rgb:CC/CC/FF"
+ColorListBoxSelectionText="rgb:00/00/00"
+#Dialog box
+ColorDialog="rgb:1F/1F/1F"
+#Tooltip text
+ColorToolTip="rgb:1F/1F/1F"
+ColorToolTipText="rgb:ff/ff/FF"
+#scrollbar
+ColorScrollBar="rgb:C0/C0/C0"
+ColorScrollBarSlider="rgb:C0/C0/C0"
+ColorScrollBarButtonArrow="rgb:C0/C0/C0"
+#Quick switch
+ColorQuickSwitch="rgb:1F/1F/1F"
+ColorQuickSwitchActive="rgb:35/35/35"
+ColorQuickSwitchText="rgb:FF/FF/FF"
+ColorClock="rgb:1F/1F/1F"
+ColorClockText="rgb:ff/ff/ff"
+
+#workpace text
+# Color of normal workspace button text
+ColorNormalWorkspaceButtonText="rgb:ff/ff/ff"
+
+# Color of active workspace button text
+
+#background parameters
+DesktopBackgroundCenter=0
+DesktopBackgroundScaled=1
+DesktopBackgroundImage="wallpaper.jpg"
