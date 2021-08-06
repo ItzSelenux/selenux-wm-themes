@@ -1,0 +1,67 @@
+ThemeDescription="Mint Y Based theme"
+
+ThemeAuthor="ItzSelenux"
+
+Look=flat
+TitleBarHeight=19
+TitleBarJustify=50
+
+TitleButtonsLeft="s"
+TitleButtonsRight="xmi"
+TitleButtonsSupported="sxmi"
+
+BorderSizeX=2
+BorderSizeY=2
+CornerSizeX=16
+CornerSizeY=16
+DlgBorderSizeX=2
+DlgBorderSizeY=2
+
+ColorNormalBorder="rgb:2A/2E/32"
+ColorActiveBorder="rgb:2A/2E/32"
+ColorActiveTitleBar="rgb:2A/2E/32"
+ColorNormalTitleBar="rgb:2A/2E/32"
+ColorNormalButton="rgb:2A/2E/32"
+ColorNormalTitleBarText="rgb:ff/ff/ff"
+ColorActiveTitleBarText="rgb:ff/ff/ff"
+ColorNormalMenu="rgb:2A/2E/32"
+ColorActiveMenuItem="rgb:3D/AE/E9"
+ColorNormalMenuItemText="rgb:ff/ff/ff"
+ColorActiveMenuItemText="rgb:ff/ff/ff"
+ColorDisabledMenuItemText="rgb:80/80/80"
+ColorMoveSizeStatus="rgb:3D/AE/E9"
+ColorMoveSizeStatusText="rgb:FF/FF/FF"
+
+ColorInputSelection="rgb:3D/AE/E9"
+#taskbar parameters
+ColorDefaultTaskBar="rgb:2A/2E/32"
+ColorNormalTaskBarApp="rgb:2A/2E/32"
+ColorNormalTaskBarAppText="rgb:ff/ff/ff"
+ColorActiveTaskBarApp="rgb:3D/AE/E9"
+ColorActiveTaskBarAppText="rgb:ff/ff/ff"
+ColorMinimizedTaskBarApp="rgb:2A/2E/32"
+ColorMinimizedTaskBarAppText="rgb:b3/b3/b3"
+#listbox
+ColorListBox="rgb:CC/CC/CC"
+ColorListBoxText="rgb:00/00/00"
+ColorListBoxSelection="rgb:CC/CC/FF"
+ColorListBoxSelectionText="rgb:00/00/00"
+#Dialog box
+ColorDialog="rgb:2A/2E/32"
+#Tooltip text
+ColorToolTip="rgb:2A/2E/32"
+ColorToolTipText="rgb:ff/ff/FF"
+#scrollbar
+ColorScrollBar="rgb:C0/C0/C0"
+ColorScrollBarSlider="rgb:C0/C0/C0"
+ColorScrollBarButtonArrow="rgb:C0/C0/C0"
+#Quick switch
+ColorQuickSwitch="rgb:2A/2E/32"
+ColorQuickSwitchActive="rgb:3D/AE/E9"
+ColorQuickSwitchText="rgb:FF/FF/FF"
+ColorClock="rgb:2A/2E/32"
+ColorClockText="rgb:ff/ff/ff"
+#background parameters
+DesktopBackgroundCenter=0
+DesktopBackgroundScaled=1
+DesktopBackgroundImage="charlie-henson.png"
