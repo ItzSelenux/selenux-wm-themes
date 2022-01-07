@@ -1,2 +1,2 @@
-# selenux-icewm-themes
-all IceWM themes created by ItzSelenux
+# selenux-fluxbox-themes
+all Fluxbox themes created by ItzSelenux
