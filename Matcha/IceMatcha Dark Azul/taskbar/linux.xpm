@@ -1,7 +1,7 @@
 /* XPM */
 static char * linux_xpm[] = {
 "45 18 69 1",
-" 	c #14161B",
+" 	c None",
 ".	c #414141",
 "+	c #4C4C4C",
 "@	c #404040",
@@ -21,11 +21,11 @@ static char * linux_xpm[] = {
 "~	c #BB946C",
 "{	c #F88A1A",
 "]	c #BA946C",
-"^	c #343535",
+"^	c #8F8F8F",
 "/	c #BDBDBD",
 "(	c #FFFFFF",
 "_	c #BCBCBC",
-":	c #3B3B3B",
+":	c #626262",
 "<	c #4A4A4A",
 "[	c #565656",
 "}	c #ECECEC",

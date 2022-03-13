@@ -61,6 +61,7 @@ ColorQuickSwitchActive="rgb:34/98/DB"
 ColorQuickSwitchText="rgb:FF/FF/FF"
 ColorClock="rgb:14/16/1B"
 ColorClockText="rgb:ff/ff/ff"
+RolloverButtonsSupported=1
 #background parameters
 DesktopBackgroundCenter=0
 DesktopBackgroundScaled=1
